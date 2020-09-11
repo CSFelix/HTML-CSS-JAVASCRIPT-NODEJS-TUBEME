@@ -51,3 +51,12 @@ node index.js
 ### `🎁 Bonus 🎁`
 
 * Curiosity: if the video's title has some uncommon char, like emojis and NON-ASCII, the application won't work. I'mma fix this issue in the next commits.
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
