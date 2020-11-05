@@ -59,4 +59,4 @@ node index.js
 
 > **Linkedin:** `---`
 
-> **Instagram:** `---`
+> **Instagram:** `instagram.com/c0deplus`
